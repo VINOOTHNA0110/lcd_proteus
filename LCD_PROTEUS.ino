@@ -9,9 +9,9 @@ lcd.begin(16, 2);
 
 void loop() {
 lcd.setCursor(0,0);
-lcd.print("asss");// Displays HELLO WORLD on LCD
+lcd.print("hello hi");// Displays HELLO WORLD on LCD
 delay(2000);
 lcd.setCursor(0,1);
-lcd.print("assdde");//Displays the string from second line.
+lcd.print("what are you doing");//Displays the string from second line.
 delay(2000);
 }
