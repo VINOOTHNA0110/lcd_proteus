@@ -12,6 +12,6 @@ lcd.setCursor(0,0);
 lcd.print("hello hi");// Displays HELLO WORLD on LCD
 delay(2000);
 lcd.setCursor(0,1);
-lcd.print("what are you doing");//Displays the string from second line.
+lcd.print("How are you?");//Displays the string from second line.
 delay(2000);
 }
